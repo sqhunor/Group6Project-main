@@ -1,0 +1,33 @@
+body{
+    background-image: url(/pictures/wallpaper_1.png);
+    
+    color: darkslategrey;
+}
+form div {
+    margin: 20px;
+    padding: 35px;
+    background-color: lightgrey;
+}
+
+input[type="text"] {
+    background-color: antiquewhite;
+}
+
+.kotelezo {
+    border: 2px solid black;
+}
+
+label {
+    display: inline-block;
+    width: 200px;
+}
+
+h1{
+    color: white;
+}
+.koverbetu{
+    font-weight: bold;
+}
+.robot{
+    margin:20px;
+}
